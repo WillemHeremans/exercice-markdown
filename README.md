@@ -1,1 +1,2 @@
-# exo
+# Voir exercice.md
+
